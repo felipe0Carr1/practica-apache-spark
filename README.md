@@ -143,6 +143,7 @@ df.select("Team 1", "Team 2", "FT").show()
 ```
 ![solucion](./images/9.png)
 
+
 5. Seleccionar columnas específicas, como el equipo 1, equipo 2 y el marcador final.
 ```python
 # Contar el número de partidos jugados
